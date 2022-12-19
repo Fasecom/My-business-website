@@ -104,7 +104,7 @@ header {
 }
 .table_2 h1 {
     padding-left: 125px;
-    padding-top: 10px;
+    padding-top: 70px;
     font-family: 'Roboto', sans-serif;
     line-height: 147.5%;
     color: #343434;
@@ -115,7 +115,7 @@ header {
 }
 .table_2 h2 {
     padding-left: 125px;
-    padding-top: 250px;
+    padding-top: 190px;
     display: flex;
     font-family: 'Roboto', sans-serif;
     font-style: normal;
@@ -215,7 +215,6 @@ footer {
     height: 32px;
 }
 .Box_text {
-    display: flex;
     height: 100px;
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
